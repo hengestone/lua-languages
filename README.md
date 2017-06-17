@@ -4,13 +4,34 @@
 Lua is famously and deceptively simple and enables many different programming paradigms. Like Javascript, it's possible to make it shine by adding more specialized syntax. I started this list to document the languages I found looking for an ML/F# like language.
 
 ### Tier 1
-For lack of a better designator, these projects are well known (to me).
+For lack of a better designator, these projects are well known, or compiles existing languages
  - http://moonscript.org/
  Moonscript, indentation based syntax, based on coffeescript
- - https://github.com/PaulBernier/castl
- Javascript transpiler
  - https://github.com/yanghuan/CSharp.lua
  C# transpiler
+ - https://github.com/retroverse/Venus
+ Go-like language
+
+### Typed Lua
+- https://github.com/ggVGc/Tua
+Tua
+
+### Binary compiled Lua-like
+ - https://github.com/dibyendumajumdar/ravi
+ and http://ravilang.github.io/
+Ravi
+ - http://terralang.org/
+ Terra
+
+### Javascript
+ - https://github.com/PaulBernier/castl
+ Javascript transpiler
+ - https://github.com/freedot/tstolua 
+Typescript
+
+### Functional
+- https://github.com/ptol/oczor
+Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
  
 ### Lisp
 There ere so many Lisp variants, the deserve their own category.
@@ -20,3 +41,11 @@ There ere so many Lisp variants, the deserve their own category.
  Urn, Lisp dialect
  - http://leafo.net/moonlisp/
  Lisp implemented in Moonscript
+ - https://github.com/WeirdConstructor/lal
+ Scheme
+ - https://github.com/adamrk/scheme2luac
+ Scheme
+ 
+ ### C
+ - https://github.com/CurtisFenner/clua32
+ 
