@@ -9,6 +9,8 @@ Pull requests welcome!
 For lack of a better designator, these projects are well known, or compiles existing languages
  - http://moonscript.org/
  Moonscript, indentation based syntax, based on coffeescript
+ - http://haxe.org
+ Haxe, strongly typed OO language transpiler with multiple backends
  - https://github.com/yanghuan/CSharp.lua
  C# transpiler
  - https://github.com/retroverse/Venus
