@@ -41,6 +41,7 @@ Typescript
 - https://github.com/ptol/oczor
 Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
 - https://github.com/iitalics/Lua-ML Basic ML language
+- https://github.com/kindl/Hypatia Hypatia, an ML-like language that transpiles to Lua
  
 ### Lisp
 There ere so many Lisp variants, the deserve their own category.
