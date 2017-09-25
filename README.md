@@ -18,7 +18,9 @@ For lack of a better designator, these projects are well known, or compiles exis
 
 ### Typed Lua
  - https://github.com/ggVGc/Tua
-Tua
+ Tua
+ - https://github.com/titan-lang/titan-v0
+ Titan
 
 ### Binary compiled Lua-like
  - https://github.com/dibyendumajumdar/ravi
