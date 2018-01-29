@@ -45,6 +45,7 @@ Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
 - https://github.com/iitalics/Lua-ML Basic ML language
 - https://github.com/kindl/Hypatia Hypatia, an ML-like language that transpiles to Lua
 - https://github.com/hengestone/pumpkin ML-like language with an experimental Lua back-end
+- https://github.com/zardyh/amulet An ML-like functional programming language that transpiles to lua
  
 ### Lisp
 There ere so many Lisp variants, the deserve their own category.
