@@ -15,6 +15,7 @@ For lack of a better designator, these projects are well known, or compiles exis
  C# transpiler
  - https://github.com/retroverse/Venus
  Go-like language
+ - https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
 
 ### Typed Lua
  - https://github.com/ggVGc/Tua
