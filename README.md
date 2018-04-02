@@ -41,19 +41,22 @@ Ravi
 Typescript
 
 ### Functional
+- https://github.com/zardyh/amulet An ML-like functional programming language that transpiles to lua
+- https://github.com/kindl/Hypatia Hypatia, an ML-like language that transpiles to Lua
 - https://github.com/ptol/oczor
 Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
 - https://github.com/iitalics/Lua-ML Basic ML language
-- https://github.com/kindl/Hypatia Hypatia, an ML-like language that transpiles to Lua
 - https://github.com/hengestone/pumpkin ML-like language with an experimental Lua back-end
-- https://github.com/zardyh/amulet An ML-like functional programming language that transpiles to lua
+
  
 ### Lisp
-There ere so many Lisp variants, the deserve their own category.
+There are so many Lisp variants, the deserve their own category.
+ - https://squiddev.github.io/urn/
+ Urn, Lisp dialect, extensive libraries
+- https://github.com/bakpakin/Fennel
+ Lisp compiler and library
  - https://github.com/meric/l2l
  l2l (lisp) superset of Lua
- - https://squiddev.github.io/urn/
- Urn, Lisp dialect
  - https://github.com/larme/hua
  Hua, Lisp dialect
  - http://leafo.net/moonlisp/
