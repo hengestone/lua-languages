@@ -47,6 +47,7 @@ Typescript
 Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
 - https://github.com/iitalics/Lua-ML Basic ML language
 - https://github.com/hengestone/pumpkin ML-like language with an experimental Lua back-end
+- https://github.com/wu-lang/wu Moonscript-like with types
 
  
 ### Lisp
