@@ -75,6 +75,7 @@ There are so many Lisp variants, the deserve their own category.
  
  ### Python
   - https://github.com/MrVallentin/PyLua
+  - https://github.com/NeonMercury/python-lua
  
 ### Ruby
  - https://github.com/Kilobyte22/Mlc
