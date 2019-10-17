@@ -29,6 +29,10 @@ For lack of a better designator, these projects are well known, or compiles exis
 Ravi
  - http://terralang.org/
  Terra
+ 
+### Strongly typed
+  - https://github.com/rochus-keller/Oberon/
+  Oberon
 
 ### Javascript
  - https://github.com/PaulBernier/castl
