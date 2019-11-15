@@ -22,6 +22,8 @@ For lack of a better designator, these projects are well known, or compiles exis
  Tua
  - https://github.com/titan-lang/titan-v0
  Titan
+ - https://github.com/pallene-lang/pallene
+ Pallene, friendly fork of Titan
 
 ### Binary compiled Lua-like
  - https://github.com/dibyendumajumdar/ravi
