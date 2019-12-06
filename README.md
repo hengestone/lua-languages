@@ -35,6 +35,7 @@ Ravi
 ### Strongly typed
   - https://github.com/rochus-keller/Oberon/
   Oberon
+- https://github.com/wu-lang/wu Slightly Rusty with classes and traits
 
 ### Javascript
  - https://github.com/PaulBernier/castl
@@ -53,8 +54,6 @@ Typescript
 Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
 - https://github.com/iitalics/Lua-ML Basic ML language
 - https://github.com/hengestone/pumpkin ML-like language with an experimental Lua back-end
-- https://github.com/wu-lang/wu Moonscript-like with types
-
  
 ### Lisp
 There are so many Lisp variants, the deserve their own category.
