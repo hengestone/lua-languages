@@ -44,8 +44,12 @@ Ravi
  Javascript transpiler
  - https://github.com/josevalim/luascript
  Javascript transpiler from the author of Elixir(!)
- - https://github.com/freedot/tstolua 
-Typescript
+
+### TypeScript
+- https://github.com/freedot/tstolua 
+- https://github.com/TypeScriptToLua/TypeScriptToLua
+- https://github.com/roblox-ts/roblox-ts
+- https://github.com/ASDAlexander77/TypeScriptLua
 
 ### Functional
 - https://github.com/zardyh/amulet An ML-like functional programming language that transpiles to lua
