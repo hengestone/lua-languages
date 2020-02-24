@@ -78,9 +78,7 @@ There are so many Lisp variants, the deserve their own category.
  Scheme
  
  ### C
- - https://github.com/CurtisFenner/clua32
  - https://github.com/davidgiven/clue
- - https://github.com/Neopallium/slua
  
  ### Python
   - https://github.com/MrVallentin/PyLua
