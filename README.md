@@ -31,6 +31,8 @@ For lack of a better designator, these projects are well known, or compiles exis
 Ravi
  - http://terralang.org/
  Terra
+ - https://github.com/edubart/nelua-lang
+ Nelua, Natively Extensible Lua
  
 ### Strongly typed
   - https://github.com/rochus-keller/Oberon/
