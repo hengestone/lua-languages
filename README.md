@@ -13,7 +13,7 @@ For lack of a better designator, these projects are well known, or compiles exis
  Haxe, strongly typed OO language transpiler with multiple backends
  - https://github.com/yanghuan/CSharp.lua
  C# transpiler
- - https://github.com/retroverse/Venus
+ - https://github.com/theFox6/VenusParser
  Go-like language
  - https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
 
