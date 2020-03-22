@@ -5,6 +5,15 @@ Lua is famously and deceptively simple and enables many different programming pa
 
 Pull requests welcome!
 
+### Compile to bytecode
+An intriguing new avenue of development started by [Rochus Keller](https://github.com/rochus-keller) for an Oberon to LuaJIT bytecode compiler provides an elegant way of leveraging the ecosystem:
+ - https://github.com/rochus-keller/Oberon/
+  Oberon compiler
+ - https://github.com/franko/luajit-lang-toolkit
+  A Lua to LuaJIT bytecode compiler/toolkit to enable different language frontends and different compilation backends.
+ - https://github.com/rochus-keller/LjTools 
+  LuaJIT tools, a Qt5 GUI parser, browser, assembler and test VM for LuaJIT 2.0 bytecode
+
 ### Tier 1
 For lack of a better designator, these projects are well known, or compiles existing languages
  - http://moonscript.org/
