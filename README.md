@@ -37,8 +37,8 @@ For lack of a better designator, these projects are well known, or compiles exis
  Titan
   - https://github.com/ggVGc/Tua
  Tua
-  - https://github.com/hishamhm/tl 
- Typed Lua
+  - https://github.com/teal-language/tl 
+ Teal
 
 ### Binary compiled Lua-like
  - https://github.com/dibyendumajumdar/ravi
