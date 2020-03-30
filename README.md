@@ -59,12 +59,8 @@ Ravi
  Javascript transpiler
  - https://github.com/seanjensengrey/colony-js
  Javascript transpiler
- - https://github.com/josevalim/luascript
- Javascript transpiler from the author of Elixir(!)
 
 ### TypeScript
-- https://github.com/freedot/tstolua 
-- https://github.com/TypeScriptToLua/TypeScriptToLua
 - https://github.com/roblox-ts/roblox-ts
 - https://github.com/ASDAlexander77/TypeScriptLua
 
