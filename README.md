@@ -25,7 +25,7 @@ For lack of a better designator, these projects are well known, or compiles exis
  - https://github.com/yanghuan/CSharp.lua
  C# transpiler
  
- - https://github.com/theFox6/VenusParser
+ - https://github.com/theFox6/LuaVenusCompiler
  Transpiler for [Venus](https://github.com/retroverse/venus), a Go-like language, 
  
  - https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
