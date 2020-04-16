@@ -63,6 +63,7 @@ Ravi
 ### TypeScript
 - https://github.com/roblox-ts/roblox-ts
 - https://github.com/ASDAlexander77/TypeScriptLua
+- https://github.com/TypeScriptToLua/TypeScriptToLua
 
 ### Functional
 - https://github.com/zardyh/amulet An ML-like functional programming language that transpiles to lua
