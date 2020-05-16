@@ -18,16 +18,12 @@ An intriguing new avenue of development started by [Rochus Keller](https://githu
 For lack of a better designator, these projects are well known, or compiles existing languages
  - http://moonscript.org/
  Moonscript, indentation based syntax, based on coffeescript
- 
  - http://haxe.org
  Haxe, strongly typed OO language transpiler with multiple backends
- 
  - https://github.com/yanghuan/CSharp.lua
  C# transpiler
- 
  - https://github.com/theFox6/LuaVenusCompiler
  Transpiler for [Venus](https://github.com/retroverse/venus), a Go-like language, 
- 
  - https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
 
 ### Typed Lua
@@ -108,5 +104,3 @@ There are so many Lisp variants, the deserve their own category.
  
 ### Other
  - https://github.com/marcoonroad/moonforth Forth to Lua transpiler
- 
- 
