@@ -98,6 +98,7 @@ There are so many Lisp variants, the deserve their own category.
  - https://github.com/Kilobyte22/Mlc
  
 ### Unique
+ - https://github.com/presidentbeef/brat Brat, using [MoonJIT](https://github.com/moonjit/moonjit)
  - https://github.com/richardhundt/shine Shine, using [TvmJit](https://github.com/perl11/tvmjit)
  - https://github.com/apotheon/vortex Vortex 
  - https://github.com/tommo/yu Yu
