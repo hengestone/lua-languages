@@ -14,6 +14,9 @@ An intriguing new avenue of development started by [Rochus Keller](https://githu
  - https://github.com/rochus-keller/LjTools 
   LuaJIT tools, a Qt5 GUI parser, browser, assembler and test VM for LuaJIT 2.0 bytecode
 
+### VM forks
+ - https://github.com/mingodad/ljs *ljs* JS-like syntax with modified VMs for PUC Lua, LuaJIT and RaptorJIT
+
 ### Tier 1
 For lack of a better designator, these projects are well known, or compiles existing languages
  - http://moonscript.org/
@@ -55,6 +58,7 @@ Ravi
  Javascript transpiler
  - https://github.com/seanjensengrey/colony-js
  Javascript transpiler
+ - https://github.com/saharNooby/lua-js-syntax Javascript inspired syntax
 
 ### TypeScript
 - https://github.com/roblox-ts/roblox-ts
