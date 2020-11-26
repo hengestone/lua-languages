@@ -66,7 +66,7 @@ Ravi
 - https://github.com/TypeScriptToLua/TypeScriptToLua
 
 ### Functional
-- https://github.com/zardyh/amulet An ML-like functional programming language that transpiles to lua
+- https://amulet.works An ML-like functional programming language that transpiles to lua
 - https://github.com/kindl/Hypatia Hypatia, an ML-like language that transpiles to Lua
 - https://github.com/ptol/oczor
 Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
