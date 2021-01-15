@@ -85,6 +85,7 @@ There are so many Lisp variants, the deserve their own category.
  Hua, Lisp dialect
  - http://leafo.net/moonlisp/
  Lisp implemented in Moonscript
+ - https://github.com/sctb/lumen Small Lisp
  - https://github.com/bullno1/mLisp
  - https://github.com/WeirdConstructor/lal
  Scheme
