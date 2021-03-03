@@ -30,6 +30,8 @@ For lack of a better designator, these projects are well known, or compiles exis
  - https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
 
 ### Typed Lua
+ - https://github.com/devcat-studio/kailua
+ KaiLua
  - https://github.com/pallene-lang/pallene
  Pallene, friendly fork of Titan
  - https://github.com/titan-lang/titan-v0
