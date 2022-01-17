@@ -78,7 +78,7 @@ Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
 - https://github.com/hengestone/pumpkin ML-like language with an experimental Lua back-end
  
 ### Lisp
-There are so many Lisp variants, the deserve their own category.
+There are so many Lisp variants, they deserve their own category.
  - https://squiddev.github.io/urn/
  Urn, Lisp dialect, extensive libraries
 - https://github.com/bakpakin/Fennel
