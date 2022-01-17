@@ -19,8 +19,10 @@ An intriguing new avenue of development started by [Rochus Keller](https://githu
 
 ### Tier 1
 For lack of a better designator, these projects are well known, or compiles existing languages
+ - http://yuescript.org/
+ Yuescript, an extended and actively developed form of Moonscript.
  - http://moonscript.org/
- Moonscript, indentation based syntax, based on coffeescript
+ Moonscript, indentation based syntax, based on the ideas of Coffeescript.
  - http://haxe.org
  Haxe, strongly typed OO language transpiler with multiple backends
  - https://github.com/yanghuan/CSharp.lua
