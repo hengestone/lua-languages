@@ -76,6 +76,7 @@ Ravi
 Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
 - https://github.com/iitalics/Lua-ML Basic ML language
 - https://github.com/hengestone/pumpkin ML-like language with an experimental Lua back-end
+- https://github.com/minoki/LunarML A Standard ML compiler that produces Lua
  
 ### Lisp
 There are so many Lisp variants, they deserve their own category.
