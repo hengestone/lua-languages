@@ -42,6 +42,8 @@ For lack of a better designator, these projects are well known, or compiles exis
  Tua
   - https://github.com/teal-language/tl 
  Teal
+ - https://github.com/CapsAdmin/NattLua 
+ NattLua
 
 ### Binary compiled Lua-like
  - https://github.com/dibyendumajumdar/ravi
