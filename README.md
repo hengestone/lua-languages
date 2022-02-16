@@ -98,6 +98,8 @@ There are so many Lisp variants, they deserve their own category.
  Scheme
  - https://github.com/adamrk/scheme2luac
  Scheme
+ - https://github.com/LuxLang/lux
+ Statically typed, functional lisp with an ML-like module system
  
  ### C
  - https://github.com/davidgiven/clue
