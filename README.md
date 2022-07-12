@@ -30,6 +30,8 @@ For lack of a better designator, these projects are well known, or compiles exis
  - https://github.com/theFox6/LuaVenusCompiler
  Transpiler for [Venus](https://github.com/retroverse/venus), a Go-like language, 
  - https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
+ - https://github.com/erde-lang/erde
+ Erde, expressive programming language that compiles to Lua
 
 ### Typed Lua
  - https://github.com/devcat-studio/kailua
