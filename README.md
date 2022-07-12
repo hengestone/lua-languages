@@ -111,6 +111,10 @@ There are so many Lisp variants, they deserve their own category.
 ### Ruby
  - https://github.com/Kilobyte22/Mlc
  
+### Rust
+ - https://github.com/ClueLang/Clue
+ Clue, a language similar to Rust that compiles to any version of Lua
+ 
 ### Unique
  - https://github.com/presidentbeef/brat Brat, using [MoonJIT](https://github.com/moonjit/moonjit)
  - https://github.com/richardhundt/shine Shine, using [TvmJit](https://github.com/perl11/tvmjit)
