@@ -27,9 +27,7 @@ For lack of a better designator, these projects are well known, or compiles exis
  Haxe, strongly typed OO language transpiler with multiple backends
  - https://github.com/yanghuan/CSharp.lua
  C# transpiler
- - https://github.com/theFox6/LuaVenusCompiler
- Transpiler for [Venus](https://github.com/retroverse/venus), a Go-like language, 
- - https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
+  - https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
 
 ### Typed Lua
  - https://github.com/devcat-studio/kailua
@@ -116,6 +114,9 @@ There are so many Lisp variants, they deserve their own category.
  - https://github.com/richardhundt/shine Shine, using [TvmJit](https://github.com/perl11/tvmjit)
  - https://github.com/apotheon/vortex Vortex 
  - https://github.com/tommo/yu Yu
+ - https://github.com/theFox6/LuaVenusCompiler
+ Transpiler for [Venus](https://github.com/retroverse/venus), a Go-like language
+ - https://github.com/erde-lang/erde Transpiler with Go-like syntax favoring symbols over words
  
 ### Other
  - https://github.com/marcoonroad/moonforth Forth to Lua transpiler
