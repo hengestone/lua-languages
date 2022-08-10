@@ -3,6 +3,8 @@
 ## Languages that compile to Lua
 Lua is famously and deceptively simple and enables many different programming paradigms. Like Javascript, it's possible to make it shine by adding more specialized syntax. I started this list to document the languages I found looking for an ML/F# like language.
 
+Note: Unmaintained languages have been marked with (*) and Archived languages have been marked with (^)
+
 Pull requests welcome!
 
 ### Compile to bytecode
@@ -19,7 +21,7 @@ An intriguing new avenue of development started by [Rochus Keller](https://githu
 
 ### Tier 1
 For lack of a better designator, these projects are well known, or compiles existing languages
- - [Unmaintained] http://yuescript.org/
+ - (*) http://yuescript.org/
  Yuescript, an extended and actively developed form of Moonscript.
  - http://moonscript.org/
  Moonscript, indentation based syntax, based on the ideas of Coffeescript.
@@ -29,21 +31,21 @@ For lack of a better designator, these projects are well known, or compiles exis
  C# transpiler
 
 ### Go/Go-like
-- https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
+ - https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
  - https://github.com/theFox6/LuaVenusCompiler
  Transpiler for [Venus](https://github.com/retroverse/venus), a Go-like language
  - https://github.com/erde-lang/erde Transpiler with Go-like syntax favoring symbols over words
 
 ### Typed Lua
- - [Archived] https://github.com/devcat-studio/kailua
+ - (^) https://github.com/devcat-studio/kailua
  KaiLua
  - https://github.com/pallene-lang/pallene
  Pallene, friendly fork of Titan
  - https://github.com/titan-lang/titan-v0
  Titan
-  - [Unmaintained] https://github.com/ggVGc/Tua
+ - (*) https://github.com/ggVGc/Tua
  Tua
-  - https://github.com/teal-language/tl 
+ - https://github.com/teal-language/tl 
  Teal
  - https://github.com/CapsAdmin/NattLua 
  NattLua
@@ -51,7 +53,7 @@ For lack of a better designator, these projects are well known, or compiles exis
 ### Binary compiled Lua-like
  - https://github.com/dibyendumajumdar/ravi
  and http://ravilang.github.io/
-Ravi
+ Ravi
  - http://terralang.org/
  Terra
  - https://github.com/edubart/nelua-lang
@@ -63,9 +65,9 @@ Ravi
  - https://github.com/wu-lang/wu Slightly Rusty with classes and traits
 
 ### Javascript
- - [Unmaintained] https://github.com/PaulBernier/castl
+ - (*) https://github.com/PaulBernier/castl
  Javascript transpiler
- - [Unmaintained] https://github.com/seanjensengrey/colony-js
+ - (*) https://github.com/seanjensengrey/colony-js
  Javascript transpiler
  - https://github.com/saharNooby/lua-js-syntax Javascript inspired syntax
 
@@ -75,44 +77,44 @@ Ravi
 - https://github.com/TypeScriptToLua/TypeScriptToLua
 
 ### Functional
-- [Archived]  https://amulet.works An ML-like functional programming language that transpiles to lua
+- (^) https://amulet.works An ML-like functional programming language that transpiles to lua
 - https://github.com/kindl/Hypatia Hypatia, an ML-like language that transpiles to Lua
-- [Unmaintained] https://github.com/ptol/oczor
+- (*) https://github.com/ptol/oczor
 Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
-- [Unmaintained] https://github.com/iitalics/Lua-ML Basic ML language
-- [Unmaintained] https://github.com/hengestone/pumpkin ML-like language with an experimental Lua back-end
+- (*) https://github.com/iitalics/Lua-ML Basic ML language
+- (*) https://github.com/hengestone/pumpkin ML-like language with an experimental Lua back-end
 - https://github.com/minoki/LunarML A Standard ML compiler that produces Lua
  
 ### Lisp
 There are so many Lisp variants, they deserve their own category.
  - https://squiddev.github.io/urn/
  Urn, Lisp dialect, extensive libraries
-- https://github.com/bakpakin/Fennel
+ - https://github.com/bakpakin/Fennel
  Lisp compiler and library
- - [Unmaintained] https://github.com/meric/l2l
+ - (*) https://github.com/meric/l2l
  l2l (lisp) superset of Lua
- - [Unmaintained] https://github.com/larme/hua
+ - (*) https://github.com/larme/hua
  Hua, Lisp dialect
- - [Unmaintained] http://leafo.net/moonlisp/
+ - (*) http://leafo.net/moonlisp/
  Lisp implemented in Moonscript
  - https://github.com/sctb/lumen Small Lisp
- - [Unmaintained] https://github.com/bullno1/mLisp
- - [Unmaintained] https://github.com/WeirdConstructor/lal
+ - (*) https://github.com/bullno1/mLisp
+ - (*) https://github.com/WeirdConstructor/lal
  Scheme
- - [Unmaintained] https://github.com/adamrk/scheme2luac
+ - (*) https://github.com/adamrk/scheme2luac
  Scheme
  - https://github.com/LuxLang/lux
  Statically typed, functional lisp with an ML-like module system
  
  ### C
- - [Unmaintained] https://github.com/davidgiven/clue
+ - (*) https://github.com/davidgiven/clue
  
  ### Python
-  - [Unmaintained] https://github.com/MrVallentin/PyLua
+  - (*) https://github.com/MrVallentin/PyLua
   - https://github.com/NeonMercury/python-lua
  
 ### Ruby
- - [Unmaintained] https://github.com/Kilobyte22/Mlc
+ - (*) https://github.com/Kilobyte22/Mlc
  
 ### Rust
  - https://github.com/ClueLang/Clue
@@ -121,9 +123,10 @@ There are so many Lisp variants, they deserve their own category.
 ### Unique
  - https://github.com/presidentbeef/brat Brat, using [MoonJIT](https://github.com/moonjit/moonjit)
  - https://github.com/richardhundt/shine Shine, using [TvmJit](https://github.com/perl11/tvmjit)
- - [Unmaintained] https://github.com/apotheon/vortex Vortex 
- - [Unmaintained] https://github.com/tommo/yu Yu
+ - (*) https://github.com/apotheon/vortex Vortex 
+ - (*) https://github.com/tommo/yu Yu
  - https://github.com/Reuh/candran Candran
  
 ### Other
- - [Unmaintained] https://github.com/marcoonroad/moonforth Forth to Lua transpiler
+ - (*) https://github.com/marcoonroad/moonforth Forth to Lua transpiler
+
