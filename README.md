@@ -26,7 +26,7 @@ For lack of a better designator, these projects are well known, or compiles exis
  - (*) http://moonscript.org/
  Moonscript, indentation based syntax, based on the ideas of Coffeescript.
  - http://haxe.org
- Haxe, strongly typed OO language transpiler with multiple backends
+ Haxe, strongly typed language with both functional and object-oriented features, that has multiple backends
  - https://github.com/yanghuan/CSharp.lua
  C# transpiler
 
