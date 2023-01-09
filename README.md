@@ -129,4 +129,5 @@ There are so many Lisp variants, they deserve their own category.
  
 ### Other
  - (*) https://github.com/marcoonroad/moonforth Forth to Lua transpiler
+ - (*) https://github.com/tjdevries/vim9jit vim9script to Lua transpiler
 
