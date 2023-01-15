@@ -18,6 +18,7 @@ An intriguing new avenue of development started by [Rochus Keller](https://githu
 
 ### VM forks
  - https://github.com/mingodad/ljs *ljs* JS-like syntax with modified VMs for PUC Lua, LuaJIT and RaptorJIT
+ - https://github.com/PlutoLang/Pluto A superset of Lua 5.4 — with unique features, optimizations, and improvements.
 
 ### Tier 1
 For lack of a better designator, these projects are well known, or compiles existing languages
