@@ -42,7 +42,7 @@ For lack of a better designator, these projects are well known, or compiles exis
  KaiLua
  - https://github.com/pallene-lang/pallene
  Pallene, friendly fork of Titan
- - https://github.com/titan-lang/titan-v0
+ - (*) https://github.com/titan-lang/titan-v0
  Titan
  - (*) https://github.com/ggVGc/Tua
  Tua
