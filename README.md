@@ -113,6 +113,7 @@ There are so many Lisp variants, they deserve their own category.
  ### Python
   - (*) https://github.com/MrVallentin/PyLua
   - (*) https://github.com/NeonMercury/python-lua
+  - https://github.com/MhadhbiXissam/pythonicLua
  
 ### Ruby
  - (*) https://github.com/Kilobyte22/Mlc
