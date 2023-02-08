@@ -11,7 +11,7 @@ Pull requests welcome!
 An intriguing new avenue of development started by [Rochus Keller](https://github.com/rochus-keller) for an Oberon to LuaJIT bytecode compiler provides an elegant way of leveraging the ecosystem:
  - https://github.com/rochus-keller/Oberon/
   Oberon compiler
- - https://github.com/franko/luajit-lang-toolkit
+ - (*) https://github.com/franko/luajit-lang-toolkit
   A Lua to LuaJIT bytecode compiler/toolkit to enable different language frontends and different compilation backends.
  - https://github.com/rochus-keller/LjTools 
   LuaJIT tools, a Qt5 GUI parser, browser, assembler and test VM for LuaJIT 2.0 bytecode
@@ -32,8 +32,8 @@ For lack of a better designator, these projects are well known, or compiles exis
  C# transpiler
 
 ### Go/Go-like
- - https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
- - https://github.com/theFox6/LuaVenusCompiler
+ - (*) https://github.com/gijit/gi translates Go into Lua. It targets LuaJIT for 64-bit integer support.
+ - (*) https://github.com/theFox6/LuaVenusCompiler
  Transpiler for [Venus](https://github.com/retroverse/venus), a Go-like language
  - https://github.com/erde-lang/erde Transpiler with Go-like syntax favoring symbols over words
 
@@ -70,11 +70,11 @@ For lack of a better designator, these projects are well known, or compiles exis
  Javascript transpiler
  - (*) https://github.com/seanjensengrey/colony-js
  Javascript transpiler
- - https://github.com/saharNooby/lua-js-syntax Javascript inspired syntax
+ - (*) https://github.com/saharNooby/lua-js-syntax Javascript inspired syntax
 
 ### TypeScript
 - https://github.com/roblox-ts/roblox-ts
-- https://github.com/ASDAlexander77/TypeScriptLua
+- (*) https://github.com/ASDAlexander77/TypeScriptLua
 - https://github.com/TypeScriptToLua/TypeScriptToLua
 
 ### Functional
@@ -88,7 +88,7 @@ Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
  
 ### Lisp
 There are so many Lisp variants, they deserve their own category.
- - https://squiddev.github.io/urn/
+ - (*) https://squiddev.github.io/urn/
  Urn, Lisp dialect, extensive libraries
  - https://github.com/bakpakin/Fennel
  Lisp compiler and library
@@ -98,7 +98,7 @@ There are so many Lisp variants, they deserve their own category.
  Hua, Lisp dialect
  - (*) http://leafo.net/moonlisp/
  Lisp implemented in Moonscript
- - https://github.com/sctb/lumen Small Lisp
+ - (*) https://github.com/sctb/lumen Small Lisp
  - (*) https://github.com/bullno1/mLisp
  - (*) https://github.com/WeirdConstructor/lal
  Scheme
@@ -112,7 +112,8 @@ There are so many Lisp variants, they deserve their own category.
  
  ### Python
   - (*) https://github.com/MrVallentin/PyLua
-  - https://github.com/NeonMercury/python-lua
+  - (*) https://github.com/NeonMercury/python-lua
+  - https://github.com/MhadhbiXissam/pythonicLua
  
 ### Ruby
  - (*) https://github.com/Kilobyte22/Mlc
@@ -122,13 +123,13 @@ There are so many Lisp variants, they deserve their own category.
  Clue, a language similar to Rust that compiles to any version of Lua
  
 ### Unique
- - https://github.com/presidentbeef/brat Brat, using [MoonJIT](https://github.com/moonjit/moonjit)
- - https://github.com/richardhundt/shine Shine, using [TvmJit](https://github.com/perl11/tvmjit)
+ - (*) https://github.com/presidentbeef/brat Brat, using [MoonJIT](https://github.com/moonjit/moonjit)
+ - (*) https://github.com/richardhundt/shine Shine, using [TvmJit](https://github.com/perl11/tvmjit)
  - (*) https://github.com/apotheon/vortex Vortex 
  - (*) https://github.com/tommo/yu Yu
- - https://github.com/Reuh/candran Candran
+ - (*) https://github.com/Reuh/candran Candran
  
 ### Other
  - (*) https://github.com/marcoonroad/moonforth Forth to Lua transpiler
- - (*) https://github.com/tjdevries/vim9jit vim9script to Lua transpiler
+ - https://github.com/tjdevries/vim9jit vim9script to Lua transpiler
 
