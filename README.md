@@ -63,7 +63,7 @@ For lack of a better designator, these projects are well known, or compiles exis
 ### Strongly typed
  - https://github.com/rochus-keller/Oberon/
  Oberon
- - https://github.com/wu-lang/wu Slightly Rusty with classes and traits
+ - (*) https://github.com/wu-lang/wu Slightly Rusty with classes and traits
 
 ### Javascript
  - (*) https://github.com/PaulBernier/castl
