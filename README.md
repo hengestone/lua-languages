@@ -86,6 +86,7 @@ Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
 - (*) https://github.com/hengestone/pumpkin ML-like language with an experimental Lua back-end
 - https://github.com/minoki/LunarML A Standard ML compiler that produces Lua
 - https://github.com/Russoul/Idris2-Lua A Lua backend for Idris 2
+- https://github.com/Unisay/purescript-lua A Lua backed for [PureScript](https://github.com/purescript/purescript)
  
 ### Lisp
 There are so many Lisp variants, they deserve their own category.
