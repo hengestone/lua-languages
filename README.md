@@ -133,6 +133,7 @@ There are so many Lisp variants, they deserve their own category.
  - (*) https://github.com/apotheon/vortex Vortex 
  - (*) https://github.com/tommo/yu Yu
  - (*) https://github.com/Reuh/candran Candran
+ - https://hurdy.apicici.com/ Hurdy
  
 ### Other
  - (*) https://github.com/marcoonroad/moonforth Forth to Lua transpiler
