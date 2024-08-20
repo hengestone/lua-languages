@@ -50,6 +50,7 @@ For lack of a better designator, these projects are well known, or compiles exis
  Teal
  - https://github.com/CapsAdmin/NattLua 
  NattLua
+ - <https://github.com/yazaldefilimone/stella>/<https://github.com/yazaldefilimone/stella-compiler> Stella
 
 ### Binary compiled Lua-like
  - https://github.com/dibyendumajumdar/ravi
