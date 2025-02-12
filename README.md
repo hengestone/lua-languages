@@ -110,6 +110,8 @@ There are so many Lisp variants, they deserve their own category.
  Scheme
  - https://github.com/LuxLang/lux
  Statically typed, functional lisp with an ML-like module system
+ - https://github.com/zcaudate-xyz/foundation-base
+ Clojure std.lang, universal Clojure transpiler with Lua grammar spec
  
  ### C
  - (*) https://github.com/davidgiven/clue
