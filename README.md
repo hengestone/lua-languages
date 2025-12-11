@@ -15,6 +15,8 @@ An intriguing new avenue of development started by [Rochus Keller](https://githu
   A Lua to LuaJIT bytecode compiler/toolkit to enable different language frontends and different compilation backends.
  - https://github.com/rochus-keller/LjTools 
   LuaJIT tools, a Qt5 GUI parser, browser, assembler and test VM for LuaJIT 2.0 bytecode
+- https://github.com/rochus-keller/Luon
+  Oberon and Lua compiled to LuaJIT bytecode
 
 ### VM forks
  - https://github.com/mingodad/ljs *ljs* JS-like syntax with modified VMs for PUC Lua, LuaJIT and RaptorJIT
