@@ -83,6 +83,7 @@ For lack of a better designator, these projects are well known, or compiles exis
 
 ### Functional
 - (^) https://amulet.works An ML-like functional programming language that transpiles to lua
+- https://github.com/dennyabraham/omelette-lang  A small optionally-typed ML that transpiles to Lua.
 - https://github.com/kindl/Hypatia Hypatia, an ML-like language that transpiles to Lua
 - (*) https://github.com/ptol/oczor
 Haskell-like language that compiles to Lua, Javascript, Emacs lisp and Ruby
